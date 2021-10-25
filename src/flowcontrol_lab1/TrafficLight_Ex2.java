@@ -1,7 +1,7 @@
-package assignement_l1;
+package flowcontrol_lab1;
 
 import java.util.Scanner;
-public class TrafficLight {
+public class TrafficLight_Ex2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

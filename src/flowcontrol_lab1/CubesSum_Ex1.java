@@ -1,7 +1,6 @@
-package assignement_l1;
-
+package flowcontrol_lab1;
 import java.util.Scanner;
-public class Cubes_Sum {
+public class CubesSum_Ex1 {
 	static int cubeSum(int n) {
 		int sum=0;
 		do {

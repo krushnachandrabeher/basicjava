@@ -1,7 +1,7 @@
-package assignement_l1;
+package flowcontrol_lab1;
 
 import java.util.Scanner;
-public class PrimeNo {
+public class PrimeNo_Ex4 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the no");
